@@ -26,10 +26,38 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-
-
+```
+<head>
+<title>Agri Search Engine</title>
+</head>
+<body>
+<h3>
+SUGARCANE CROP:
+<br>
+<a href="https://en.wikipedia.org/wiki/Sugarcane">
+<img src="C:\Pragya\SEC\web design\sugarcane.jpeg" height="200" width="200">
+</a>
+<br>
+<br>
+SEED DRILL:
+<br>
+<a href="https://en.wikipedia.org/wiki/Seed_drill#:~:text=A%20seed%20drill%20is%20a,being%20dragged%20by%20a%20tractor.">
+<img src="C:\Pragya\SEC\web design\seed drill.jpeg" height="200" width="200">
+</a>
+<br>
+<br>
+ORGANIC FERTILIZER:
+<br>
+<a href="https://en.wikipedia.org/wiki/Organic_fertilizer">
+<img src="C:\Pragya\SEC\web design\organic fertilizer.jpeg"height="200" width="200">
+</a>
+</body>
+</html>
+```
 ## OUTPUT
-
-
+![alt text](<Screenshot (816).png>)
+![alt text](<Screenshot (819).png>) 
+![alt text](<Screenshot (818).png>) 
+![alt text](<Screenshot (817).png>)
 ## RESULT
  Images as hyperlinks is implemented successfully.
